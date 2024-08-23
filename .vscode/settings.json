@@ -1,0 +1,10 @@
+{
+  "r.debugger.printStdout": "all",
+  "r.debugger.printStderr": "all",
+  "r.debugger.printSinkSocket": "all",
+  "r.debugger.printStdin": "all",
+  "r.debugger.printJsonSocket": "all",
+  "r.debugger.logLevelSession": "debug",
+  "r.debugger.logLevelRuntime": "debug",
+  "r.debugger.logLevelRSession": "debug"
+}

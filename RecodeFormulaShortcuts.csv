@@ -1,0 +1,8 @@
+id,var,nvar,type,f
+1,iif,ifelse,1,fx
+2,rs,rowSums,1,fx
+3,all,all_of,1,fx
+4,sel,select,1,fx
+5,an,as.numeric,2,fx
+6,af,as.factor,2,fx
+7,ai,as.integer,1,fx
